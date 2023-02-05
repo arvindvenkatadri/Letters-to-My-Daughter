@@ -1,0 +1,10 @@
+---
+title: "_posts.yml"
+author: "Arvind Venkatadri"
+editor: visual
+format:
+  html:
+    theme: united
+    css: styles.css
+    toc: true
+---

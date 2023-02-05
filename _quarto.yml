@@ -1,13 +1,20 @@
 project:
   type: website
+  preview:
+    port: 2100
+    browser: true
+website: 
+  title: "Letters to My Daughter"
+  page-navigation: true
+  site-url: "https://letters-to-my-daughter.netlify.app/"
 
-website:
-  title: "Letters-to-My-Daughter"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: posts/posts.qmd
+        text: Letters
 
 format:
   html:
@@ -17,3 +24,5 @@ format:
 
 editor: visual
 
+execute:
+  freeze: auto

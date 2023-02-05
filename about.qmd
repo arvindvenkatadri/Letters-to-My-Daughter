@@ -1,9 +1,18 @@
 ---
 title: "About"
+image: avatar.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
 ---
 
-About this site
+# About this blog
 
-```{r}
-1 + 1
-```
+I am going to write a Letter to my daughter every week.
+
+What will I write? Whatever is in my heart that I want her to know or
+wish that she did. Do I lack the courage to tell her myself? Perhaps...
+

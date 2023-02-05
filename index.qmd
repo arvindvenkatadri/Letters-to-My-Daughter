@@ -1,6 +1,7 @@
 ---
 title: "Letters-to-My-Daughter"
 author: "Arvind Venkatadri"
+date: 02/Feb/2023
 ---
 
 Today, at the behest of a dear friend and colleague, I have decided to
