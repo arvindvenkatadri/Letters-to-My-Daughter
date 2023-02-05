@@ -1,12 +1,8 @@
 ---
 title: "Letters-to-My-Daughter"
+author: "Arvind Venkatadri"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit
-<https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+Today, at the behest of a dear friend and colleague, I have decided to
+write a letter to my daughter, once a week. Hopefully she will find
+these at least entertaining when is much older!
