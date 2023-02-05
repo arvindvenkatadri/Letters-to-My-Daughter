@@ -2,8 +2,13 @@
 title: "Letters"
 editor: visual
 listing:
-  contents: posts/*/*.qmd
+  contents: /*/*.qmd
+  type: grid
+  filter-ui: true
+  grid-item-align: center
+  grid-item-border: true
+  image-align: left
+  sort-ui: true
   sort: "date desc"
-  type: default
   categories: true
 ---
