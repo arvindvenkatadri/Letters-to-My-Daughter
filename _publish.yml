@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 59814c17-8f42-4cf2-8555-0c8439bb3c14
+      url: 'https://tiny-pudding-a49d53.netlify.app'
